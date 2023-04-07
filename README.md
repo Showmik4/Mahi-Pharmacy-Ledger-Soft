@@ -12,6 +12,10 @@ This is a small application which contain few features of taking day to day debi
 7. Recycle Bin
 8. Users profile settings
 
+Website URL:
+https://mahipharmacy.com/
+
+
 
 
 
